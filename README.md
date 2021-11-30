@@ -20,6 +20,9 @@ https://shop-stripe-mehdi.herokuapp.com/
 1. Clone project.
 2. Open terminal and run these commands in order
     - npm install
+    - cd server
+    - npm run seed
+    - cd ..
     - npm run develop
 
 ## Code Snippet Of Order Model 
