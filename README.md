@@ -18,7 +18,7 @@ https://shop-stripe-mehdi.herokuapp.com/
 
 ## Installation Steps For Local Running
 1. Clone project.
-2. Open terminal and run these commands in order
+2. Open terminal within the directory and run these commands in order
     - npm install
     - cd server
     - npm run seed
