@@ -1,5 +1,5 @@
 # Shop-Stripe
-A Fullstack E-commerce website where users can view products, add products to their cart and checkout with stripe.
+A Fullstack E-commerce website where users can view products, add products to their cart and checkout with stripe, using context API, for state management.
 
 ## Deployed Link
 https://shop-stripe-mehdi.herokuapp.com/
